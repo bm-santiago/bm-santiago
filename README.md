@@ -6,7 +6,8 @@
 Atualmente estou evoluindo no **ecossistema JavaScript**, desenvolvendo projetos **Front-End**, sempre focado em boas práticas, código limpo e aplicações funcionais do mundo real.
 
 Venho de uma base sólida em **infraestrutura, scripts e automação**, o que me ajuda a enxergar o desenvolvimento além da tela — pensando também em performance, organização e escalabilidade ⚙️
-
+<br>
+<br>
 > “Aprender todos os dias, errar rápido e evoluir com cada commit.”
 
 <br>
@@ -26,4 +27,11 @@ Venho de uma base sólida em **infraestrutura, scripts e automação**, o que me
 ---
 
 🚀 **Construindo projetos reais. Evoluindo um commit por vez.**
+
+
+## 📊 Linguagens mais usadas
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bm-santiago&layout=compact&theme=tokyonight"/>
+
+
 
