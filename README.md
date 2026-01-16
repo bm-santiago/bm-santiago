@@ -1,7 +1,13 @@
 ## 👋 Fala dev, eu sou o Breno Maia!
 
-🚀 Programador **Front-End em evolução**  
-🧠 Apaixonado por **automação, tecnologia e soluções que facilitam a vida**
+🚀 Desenvolvedor **Front-End | Fullstack em formação**  
+🧠 Apaixonado por **automação, desenvolvimento web e soluções inteligentes**
+
+Atualmente estou evoluindo no **ecossistema JavaScript**, desenvolvendo projetos **Front-End**, sempre focado em boas práticas, código limpo e aplicações funcionais do mundo real.
+
+Venho de uma base sólida em **infraestrutura, scripts e automação**, o que me ajuda a enxergar o desenvolvimento além da tela — pensando também em performance, organização e escalabilidade ⚙️
+
+> “Aprender todos os dias, errar rápido e evoluir com cada commit.”
 
 <br>
 <br>
@@ -10,8 +16,14 @@
 <br>
 <br>
 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+### 🛠️ Tecnologias em estudo e prática:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<br>
-📌 **Em constante aprendizado. Um commit por vez.**
+📌 *Próximos passos:* React • Node.js • APIs • Banco de Dados
+
+---
+
+🚀 **Construindo projetos reais. Evoluindo um commit por vez.**
+
