@@ -1,37 +1,75 @@
-## 👋 Fala dev, eu sou o Breno Maia!
+# 👨‍💻 Breno Maia
 
-🚀 Desenvolvedor **Front-End | Fullstack em formação**  
-🧠 Apaixonado por **automação, desenvolvimento web e soluções inteligentes**
+**Front-End Developer | Full-Stack em evolução**
 
-Atualmente estou evoluindo no **ecossistema JavaScript**, desenvolvendo projetos **Front-End**, sempre focado em boas práticas, código limpo e aplicações funcionais do mundo real.
+Sou um desenvolvedor focado em **JavaScript e desenvolvimento web**, construindo aplicações funcionais e automatizações voltadas para problemas reais.
 
-Venho de uma base sólida em **infraestrutura, scripts e automação**, o que me ajuda a enxergar o desenvolvimento além da tela — pensando também em performance, organização e escalabilidade ⚙️
-<br>
-<br>
-> “Aprender todos os dias, errar rápido e evoluir com cada commit.”
+Minha trajetória começou na área de **infraestrutura e automação de sistemas**, trabalhando com scripts, configuração de ambientes e padronização de máquinas.
+Hoje aplico essa base para desenvolver aplicações mais organizadas, performáticas e escaláveis.
 
-<br>
-<br>
-### 🌐 Conecte-se comigo:
-<a href="https://www.linkedin.com/in/brenomsantiago/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<br>
-<br>
+Isso me permite enxergar além da interface:
+não apenas *como a tela funciona*, mas **como o sistema inteiro deve funcionar**.
 
-### 🛠️ Tecnologias em estudo e prática:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-📌 *Próximos passos:* React • Node.js • APIs • Banco de Dados
+> *Aprender constantemente, errar rápido e evoluir a cada commit.*
 
 ---
 
-🚀 **Construindo projetos reais. Evoluindo um commit por vez.**
+## 🚀 O que você vai encontrar aqui
 
+* Projetos Front-End responsivos
+* Aplicações JavaScript puras (Vanilla JS)
+* Experimentos e estudos práticos
+* Automatizações e ferramentas internas
+* Evolução real documentada commit por commit
 
-## 📊 Linguagens mais usadas
+---
+
+## 🛠️ Tecnologias
+
+### Atualmente utilizando
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Em evolução
+
+React • Node.js • APIs REST • Banco de Dados • Git & GitHub avançado
+
+### Diferenciais técnicos
+
+Automação com Scripts • Padronização de ambientes • Troubleshooting • Pensamento sistêmico
+
+---
+
+## 📊 Linguagens mais usadas.
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bm-santiago&layout=compact&theme=tokyonight"/>
+
+---
+
+## 🌐 Contato
+
+<a href="https://www.linkedin.com/in/brenomsantiago/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+## 🧭 Objetivo
+
+Minha meta é atuar como **desenvolvedor web profissional**, participando da construção de sistemas reais, colaborando em equipe e evoluindo continuamente como engenheiro de software.
+
+🚀 Construindo projetos. Documentando aprendizados. Evoluindo todos os dias.
+
+
+
+
+
+
+
+
+
 
 
 
